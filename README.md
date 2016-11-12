@@ -1,2 +1,6 @@
-# hong-kong-university-front-end-frameworks-studies-coursera
-Exercises from Front-End Web UI Frameworks and Tools -> https://www.coursera.org/learn/web-frameworks/
+# Course: Front-End Web UI Frameworks and Tools
+## From Hong Kong University
+
+# Week 1
+
+1. Getting started with Bootstrap
