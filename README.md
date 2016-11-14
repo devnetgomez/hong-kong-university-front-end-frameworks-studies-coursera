@@ -4,3 +4,4 @@
 # Week 1
 
 1. Getting started with Bootstrap
+2. The Grid System
